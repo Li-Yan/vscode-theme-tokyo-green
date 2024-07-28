@@ -1,24 +1,30 @@
-# Compiled class file
-*.class
-
-# Log file
-*.log
-
-# BlueJ files
-*.ctxt
-
-# Mobile Tools for Java (J2ME)
-.mtj.tmp/
-
-# Package Files #
-*.jar
-*.war
-*.nar
-*.ear
-*.zip
-*.tar.gz
-*.rar
-
-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
-hs_err_pid*
-replay_pid*
+*.dSYM
+*.o
+*.plist
+.deps
+.dirstamp
+.DS_Store
+aclocal.m4
+ag
+autom4te.cache
+cachegrind.out.*
+callgrind.out.*
+clang_output_*
+compile
+config.guess
+config.log
+config.status
+config.sub
+configure
+depcomp
+gmon.out
+install-sh
+Makefile
+Makefile.in
+missing
+src/config.h*
+stamp-h1
+tests/*.err
+tests/big/*.err
+tests/big/big_file.txt
+the_silver_searcher.spec
