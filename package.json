@@ -6,6 +6,7 @@
   "engines": {
     "vscode": "^1.91.0"
   },
+  "publisher": "magma917",
   "categories": [
     "Themes"
   ],
@@ -17,5 +18,21 @@
         "path": "./themes/tokyo-green-color-theme.json"
       }
     ]
+  }
+  "keywords": [
+      "Tokyo",
+      "eye",
+      "eyecare",
+      "health",
+      "green",
+      "mint",
+      "fresh",
+      "night",
+      "comfort"
+  ],
+  "homepage": "https://github.com/Li-Yan/vscode-theme-tokyo-green",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Li-Yan/vscode-theme-tokyo-green"
   }
 }
