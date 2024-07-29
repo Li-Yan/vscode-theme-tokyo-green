@@ -8,7 +8,8 @@
     "activityBarBadge.foreground": "#eeeeee",
     "sideBarSectionHeader.background": "#c7edcc",
     "sideBarSectionHeader.foreground": "#519657",
-    "sideBarSectionHeader.border": "#519657",
+    "sideBar.background": "#c7edcc", // 侧边栏，即资源管理器、搜索栏等
+    "sideBarSectionHeader.background": "#5196573c",
     "badge.background": "#519657", // 角标
     "badge.foreground": "#eeeeee",
     "button.background": "#519657",
@@ -59,8 +60,6 @@
     "scrollbarSlider.activeBackground": "#81c784",
     "scrollbarSlider.background": "#a5d6a7",
     "scrollbarSlider.hoverBackground": "#81c784",
-    "sideBar.background": "#c7edcc", // 侧边栏，即资源管理器、搜索栏等
-    "sideBarSectionHeader.background": "#c7edcc",
     "statusBar.background": "#c7edcc", // 底部状态栏
     "statusBar.debuggingBackground": "#519657",
     "statusBar.debuggingForeground": "#00701a",
